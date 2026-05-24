@@ -1,0 +1,15 @@
+{
+  "pull_request": {
+    "user": {
+      "login": "dependabot[bot]"
+    },
+    "number": 123,
+    "head": {
+      "sha": "1234567890abcdef"
+    }
+  },
+  "repository": {
+    "full_name": "spring-projects/spring-session",
+    "name": "spring-session"
+  }
+}
